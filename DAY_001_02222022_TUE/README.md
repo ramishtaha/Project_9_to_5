@@ -5,6 +5,6 @@ in this 1 hour I practiced Linux command line on HTB academy
 
 I was able to build up a nice blackboard to help myself focused I will attach photographs below.
 
-![Blackboard](!IMG_20220222_142305.jpg)
-![Blackboard](!IMG_20220222_142338.jpg)
-![Blackboard](!IMG_20220222_142341.jpg)
+![Blackboard](IMG_20220222_142305.jpg)
+![Blackboard](IMG_20220222_142338.jpg)
+![Blackboard](IMG_20220222_142341.jpg)
