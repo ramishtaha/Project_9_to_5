@@ -10,3 +10,6 @@ I also got my hands on a Goldmine of training material today from a friend, I am
 ![Blackboard](IMG_20220222_142305.jpg)
 ![Blackboard](IMG_20220222_142338.jpg)
 ![Blackboard](IMG_20220222_142341.jpg)
+
+Updated morning Routine
+![Blacoboard](IMG_20220222_145219.jpg)
